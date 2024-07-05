@@ -1,13 +1,9 @@
 # Hi there 👋
 
-I'm Head of a Cyber Threat Intelligence Lab 🧪. Part time Cybersecurity Analyst, full time Software Developer.
+I'm a Staff Product Manager working in cybersecurity area and I want to make the world a ~better~ safer place.
 
-Rule the life with automation 🤖.
-
-Passionate about:
-- 🐍 Python
-- 🐭 Go
-- 🔐 Cryptography
-- 🕵️ OSINT
-- 🪙 Bitcoin
-- 👥 Management 
+My favourite topics are:
+- External Attack Surface Management
+- Data breach prevention
+- Coding in Go
+- Cryptography
